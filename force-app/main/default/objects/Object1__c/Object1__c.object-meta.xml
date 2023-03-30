@@ -159,7 +159,7 @@
         <label>Object1 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>plural</pluralLabel>
+    <pluralLabel>plural -  external</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
