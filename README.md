@@ -12,6 +12,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 CHANGE
 ANOTHER
 CHANGE3
+CHANGE4
 
 ## Read All About It
 
