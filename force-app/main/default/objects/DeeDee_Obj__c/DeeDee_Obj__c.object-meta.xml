@@ -159,7 +159,7 @@
         <label>DeeDee Obj Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>plural change external</pluralLabel>
+    <pluralLabel>plural CHANGE_CHANGE</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
