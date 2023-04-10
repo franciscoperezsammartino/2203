@@ -158,7 +158,7 @@
         <label>Demo_Combine Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Middle-Work-Item</pluralLabel>
+    <pluralLabel>Survivor-Work-Item</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
