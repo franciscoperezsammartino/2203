@@ -159,7 +159,7 @@
         <label>Try_Rebase_Update_reference Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>plural</pluralLabel>
+    <pluralLabel>update1</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
